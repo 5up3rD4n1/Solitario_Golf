@@ -1,0 +1,16 @@
+Loading 00debian-vars...done
+Loading /etc/emacs/site-start.d/50dictionaries-common.el (source)...
+Loading debian-ispell...
+Loading /var/cache/dictionaries-common/emacsen-ispell-default.el (source)...done
+Loading debian-ispell...done
+Loading /var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...done
+Loading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Loading vc-git...done
+Mark saved where search started
+Auto-saving...
+byte-code: Beginning of buffer [4 times]
+kmacro-call-macro: No kbd macro has been defined
+Column-Number mode enabled
+Auto-saving...
+Saving file /home/sd/Documentos/gitProyects/Solitario_Golf/*Messages*...
